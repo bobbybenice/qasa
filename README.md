@@ -8,7 +8,9 @@
 
 ### Say hi to Snoop!
 
-This is not a very useful chat application.. But hey, who doesn't want to chat with a virtual dog named Snoop? 
+This is not a very useful chat application.. But hey, who doesn't want to chat with a virtual dog named Snoop?
+
+_Hint! He loves greetings_. 
 
 ### If I had more time I would:
 
